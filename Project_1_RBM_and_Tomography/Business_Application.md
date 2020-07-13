@@ -2,7 +2,7 @@
 # Quantum Cohort Project Business Application
 
 For each weekly project, your team is asked to complete the below business application exercise.
-To complement the technical tasks, please consdier the four questions below.
+To complement the technical tasks, please consider the four questions below.
 You are free to format your response to these four questions as you wish (with the final question done as a short recorded video), and to include
 the content (or links to the content) on your forked repository.
 
